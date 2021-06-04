@@ -1,10 +1,16 @@
 # Destination Ratr Backend
 
-[Live Site](https://destination-ratr.netlify.app/)
+## Overview 
 
-[Frontend Repo](https://github.com/sammyschneider/Destination-Ratr-Backend)
+A collaborative project and single-page application where users can rate and post their travel experiences in a blog-like manner. This full stack CRUD application was built with class-based React on the frontend and PHP on the backend. Additionally, we created our own API database with PostgreSQL. The PHP backend was deployed with Heroku and the front-end was deployed with Netlify.
 
-[Deployed Backend](https://destination-ratr-backend.herokuapp.com/destination)
+### Relevant Links
+
+- [Live Site](https://destination-ratr.netlify.app/)
+
+- [Frontend Repo](https://github.com/sammyschneider/Destination_Ratr)
+
+- [Deployed Backend](https://github.com/Albybatista/destination_ratr_backend)
 
 ### Technologies used 
 
